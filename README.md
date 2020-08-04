@@ -1,0 +1,2 @@
+# Diabetesprediction
+To predict if a person has diabetes(1) or no diabetes(0) from the pima-indians-diabetes data set, which comes from the Pima people, who are a group of Native Americans living in an area consisting of what is now central and southern Arizona. They have the highest reported prevalence of diabetes of any population in the world, and have contributed to numerous scientific gains through their willingness to participate in research.
